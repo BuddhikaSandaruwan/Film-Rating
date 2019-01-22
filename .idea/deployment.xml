@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="vitualServer">
+    <serverData>
+      <paths name="vitualServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="FilmRatingSystem" local="$PROJECT_DIR$" web="/FilmRatingSystem" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
